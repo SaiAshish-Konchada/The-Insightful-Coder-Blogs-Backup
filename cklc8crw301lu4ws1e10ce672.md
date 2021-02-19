@@ -49,7 +49,7 @@ You can use your phone camera as input for face detection, object tracking, emot
 
 ![Source Code For Turning Phone to Webcam for Computer Vision Application](https://cdn.hashnode.com/res/hashnode/image/upload/v1613207510198/SXOmn8tlG.png)
 
-You can download the source code from my [GitHub Respository](https://github.com/SaiAshish-Konchada/Artificial-Intelligence/blob/main/Computer%20Vision/Turn%20Phone%20Camera%20into%20Webcam.py).
+You can download the source code from my [GitHub Repository](https://github.com/SaiAshish-Konchada/Artificial-Intelligence/blob/main/Computer%20Vision/Turn%20Phone%20Camera%20into%20Webcam.py).
 
 Simply replace the IPv4 address at the specified line of code, run it, and watch the streaming begin!
 
