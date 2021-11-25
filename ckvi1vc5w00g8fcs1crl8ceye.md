@@ -2,15 +2,6 @@
 
 Hello everyone, it's  [Sai Ashish Konchada](https://www.linkedin.com/in/sai-ashish/)  back after a hiatus for good. The past few months have been a rollercoaster ride, a wave of happy hormones with nervous adventures. It gives me immense pleasure to announce that I've been selected as the first-ever Google Developer Student Clubs Lead at my college. In this post, we will be looking into the journey from the application to the selection. 
 
-
-``` 
-1. What is Google Developer Student Clubs?
-2. What are the roles and responsibilities of a lead?
-3. How can I apply to become a Google Developer Student Club Lead at my campus?
-4. The Google Developer Student Clubs Lead Application Form 2021
-5. Timeline for GDSC Selection 2021 and The Interview Experience
-```
-
 ## 1. What is Google Developer Student Clubs?
 
 As per the official  [website](https://gdsc.community.dev/), Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
