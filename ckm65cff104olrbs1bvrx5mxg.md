@@ -116,4 +116,4 @@ And while you're at it, consider giving this blog the maximum love you can and I
 
 - I'm also dropping daily value bombs and development insights on my  [Instagram](https://www.instagram.com/theinsightfulcoder/) Page. Make sure to follow me up 💯
 
-- Find and Download All My Project Source Codes at My [Github Repository](https://github.com/SaiAshish-Konchada)  🎁#for_our_case
+- Find and Download All My Project Source Codes at My [Github Repository](https://github.com/SaiAshish-Konchada)  🎁
