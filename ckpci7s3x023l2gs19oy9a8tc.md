@@ -12,7 +12,7 @@ One of my favorite channels, Clever Programmer, founded by Rafeh Qazi offers one
 
 %[https://www.youtube.com/user/ssangha32]
 
-Sonny Sangha aka Papa React is one of the best mentors you could ask for. From being in the team of Clever Programmer and building a personal brand, Sonny has come a long time. Sonny builds amazing clones of websites such as Amazon, LinkedIn, Netlfix, live step by step. Sonny has recently started his own Youtube channel which has gained over 1 million views and 46k subscribers already.
+Sonny Sangha aka Papa React is one of the best mentors you could ask for. From being in the team of Clever Programmer and building a personal brand, Sonny has come a long time. Sonny builds amazing clones of websites such as Amazon, LinkedIn, Netflix, live step by step. Sonny has recently started his own Youtube channel which has gained over 1 million views and 46k subscribers already.
 
 ## 3. Akshay Saini
 
@@ -42,7 +42,7 @@ The saviour of Indian students, Haris Khan at his channel, Code with Harry teach
 
 %[https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw]
 
-I'll let the description of Web Dev Simplified do the talking. Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to a full stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers. This channel has 549k subscribers and 28 million views at the moment.
+I'll let the description of Web Dev Simplified do the talking. Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no-stack to a full-stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers. This channel has 549k subscribers and 28 million views at the moment.
 
 ## 8. The Net Ninja
 
@@ -54,13 +54,13 @@ The Net Ninja has over 1k tutorials on topics such as Modern JavaScript (beginne
 
 %[https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ]
 
-Jessica at Coder Coder, provides incredible practical tips on Web Development. She has a limited number of videos on her channel but has garnered 170k subscribers and 3 million views on her channel. Surely one to look for.
+Jessica at Coder Coder, provides incredible practical tips on Web Development. She has a limited number of videos on her channel but has garnered 170k subscribers and 3 million views on the channel. Surely one to look for.
 
 ## 10. Corey Schafer
 
 %[https://www.youtube.com/user/schafer5]
 
-Corey Schafer is another guy who needs no introduction. You'll gain a ton of knowledge on  Python, Git, Development Environments, Terminal Commands, SQL, Programming Terms, JavaScript, Computer Science Fundamentals among others. Corey has 776k subscribers and 57 million views on his channel right now.
+Corey Schafer is another guy who needs no introduction. You'll gain a ton of knowledge on  Python, Git, Development Environments, Terminal Commands, SQL, Programming Terms, JavaScript, and Computer Science Fundamentals among others. Corey has 776k subscribers and 57 million views on his channel right now.
 
 ## 11. Wes Bos
 
