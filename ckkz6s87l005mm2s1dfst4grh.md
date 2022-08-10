@@ -2,7 +2,7 @@
 
 While privacy has become a myth due to the advent of technology, there are a few easy ways to protect your identity. One of these ways is to install extensions directly into your web browser. 
 
-On this note, I warmly welcome you'll to the  [Tech-Hacks For Everybody Series](https://hashnode.com/series/tech-hacks-for-everybody-ckk3juqc10ihoqps16q0geabj) 🛠 I'm [Sai Ashish](https://www.linkedin.com/in/sai-ashish/), and in this article, we are going to explore the top 10 extensions I use to enhance my browsing experience and be aware of trackers and harmful scripts that break into my sanity. 
+In this article, we are going to explore the top 10 extensions I use to enhance my browsing experience and be aware of trackers and harmful scripts that break into my sanity. 
 
 ![Computer Setup](https://cdn.hashnode.com/res/hashnode/image/upload/v1611825361906/ZNLw7viYB.jpeg)
 
@@ -143,14 +143,4 @@ You can get it at  [AdGuard AdBlocker for FireFox](https://addons.mozilla.org/en
 
 I hope you feel a little bit more secure about your browsing experience now. Which extension do you use to protect your privacy on the Internet? Do let me know in the comment section below!
 
-And while you're at it, consider giving this blog the maximum love you can and I promise to bring you valuable tech-hacks, swag opportunities, step-by-step project builds and a ton of value bombs 💣 Until next time, take care 🙋🏻‍♂️
-
-### Bonus Insights by  [The Insightful Coder](https://theinsightfulcoder.com/) :
-
--  Interested in Building Creative Beginner-Level Python Projects🐍?: Check out the  [Python Projects for Beginners Series](https://hashnode.com/series/python-projects-for-beginners-ckk31d9370h0vrus1blfl0a4y)😍
-
--  Interested in Building Your Own Artificial Intelligence Projects using Python?: Check out the [Python AI Series](https://hashnode.com/series/python-ai-series-ckkft33ux016dwjs11xlqbz4v)🧠
-
-- Wanna Interact With Me 🙋🏻‍♂️? Connect With Me on Your Favourite Platform [Here](https://theinsightfulcoder.com/contact-me)  🤝🏻
-
-- Find and Download All My Project Source Codes at My [Github Repository](https://github.com/SaiAshish-Konchada) 🎁
+And while you're at it, consider giving this blog the maximum love you can and I promise to bring you valuable tech hacks, step-by-step project builds, and a ton of value bombs! 
