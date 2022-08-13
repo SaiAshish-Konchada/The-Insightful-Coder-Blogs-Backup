@@ -230,18 +230,6 @@ print(translation)
 ![Output for Text Translator Using Python](https://cdn.hashnode.com/res/hashnode/image/upload/v1618522225463/zWO2PI6ik.png)
 You can directly download the source code for Map Generator from Location from my  [GitHub Repository](https://github.com/SaiAshish-Konchada/Python-Projects-for-Beginners/blob/main/5%20More%20Python%20Projects%20in%205%20Minutes/Text%20Translator.py).
 
-That's it, folks! We have successfully learnt 5 short yet interesting builds that can be implemented in under 5 minutes. These builds are a very good stepping step for any beginner in Python. If you find my content valuable and want to support my efforts, consider buying me a coffee!
+That's it, folks! We have successfully learnt 5 short yet interesting builds that can be implemented in under 5 minutes. These builds are a very good stepping step for any beginner in Python. If you find my content valuable and want to support my efforts, consider sponsoring me!
 
-<a href = "https://www.buymeacoffee.com/saiashish">
-![Buy Me A Coffee](https://cdn.hashnode.com/res/hashnode/image/upload/v1618475866800/vzRVRor5z.png)
- </a>
-
-## Bonus Insights by  [The Insightful Coder](https://theinsightfulcoder.com/) :
-
--  Interested in Building Your Own Artificial Intelligence Projects using Python?: Check out the [Python AI Series](https://hashnode.com/series/python-ai-series-ckkft33ux016dwjs11xlqbz4v)🧠
-
-- Wanna Discover Some Valuable Tech-Hacks 🛠?: Check out the [Tech-Hacks for Everybody Series](https://hashnode.com/series/tech-hacks-for-everybody-ckk3juqc10ihoqps16q0geabj)😎
-
-- I'm also dropping useful dev resources, interactive quizzes and Interview preparation on my  [Instagram](https://www.instagram.com/theinsightfulcoder/) Page. Make sure to follow me up 💯
-
-- Find and Download All My Project Source Codes at My [Github Repository](https://github.com/SaiAshish-Konchada)  🎁
+I'm dropping daily value bombs and development insights on [Twitter](https://twitter.com/InsightfulCoder). Make sure to follow me up. Find and Download All My Project Source Codes at My [Github Repository](https://github.com/SaiAshish-Konchada) 🎁
