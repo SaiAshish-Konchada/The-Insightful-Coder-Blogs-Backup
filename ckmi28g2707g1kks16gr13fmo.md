@@ -52,16 +52,8 @@ Ran out of coins at the nearest vending machine? Or want to make life decisions?
 
 ![Windows93.net](https://cdn.hashnode.com/res/hashnode/image/upload/v1611313636842/LF44cvOTM.gif)
 
-This is my go-to website when I feel bored or down. This site ravels the whole Windows 93 in a clean interface. You can play all the Flash games, open files, edit, save them and more. The whole Windows 93 at the tip of your fingers 👆🏻 I highly recommend you to visit this site and play around. One of my favourite storylines is the Star Wars one. And do check out the totally not a virus dolphin 😂 Experience Windows 93 now by clicking on the globe [🌐](http://www.windows93.net/) 
+This is my go-to website when I feel bored or down. This site ravels the whole Windows 93 in a clean interface. You can play all the Flash games, open files, edit, save them and more. The whole Windows 93 at the tip of your fingers. I highly recommend you to visit this site and play around. One of my favourite storylines is the Star Wars one. And do check out the totally not a virus dolphin 😂 Experience Windows 93 now by clicking on the globe [🌐](http://www.windows93.net/) 
 
-That's it folks💯 If you liked this article, smash the like button and do let me know which website you enjoyed the most!  
+That's it folks! If you liked this article, smash the like button, and do let me know which website you enjoyed the most!  
 
-### Bonus Insights by  [The Insightful Coder](https://theinsightfulcoder.com/) :
-
--  Interested in Building Creative Beginner-Level Python Projects🐍?: Check out the  [Python Projects for Beginners Series](https://hashnode.com/series/python-projects-for-beginners-ckk31d9370h0vrus1blfl0a4y)😍
-
--  Interested in Building Your Own Artificial Intelligence Projects using Python?: Check out the [Python AI Series](https://hashnode.com/series/python-ai-series-ckkft33ux016dwjs11xlqbz4v)🧠
-
-- Wanna Interact With Me 🙋🏻‍♂️? Connect With Me on Your Favourite Platform [Here](https://theinsightfulcoder.com/contact-me)  🤝🏻
-
-- Find and Download All My Project Source Codes at My [Github Repository](https://github.com/SaiAshish-Konchada) 🎁
+I'm dropping daily value bombs and development insights on [Twitter](https://twitter.com/InsightfulCoder). Make sure to follow me up. Find and Download All My Project Source Codes at My [Github Repository](https://github.com/SaiAshish-Konchada).
